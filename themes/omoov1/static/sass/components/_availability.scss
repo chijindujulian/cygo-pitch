@@ -1,0 +1,27 @@
+.available {
+  display: flex;
+  justify-content: center;
+  margin-block-end: var(--space-2xl);
+
+  p {
+    max-width: 25rem;
+    border: 0.0625rem solid $success500;
+    border-radius: 0.25rem;
+    padding: 0.4rem;
+    color: $success500;
+    background-color: $white;
+    font-size: var(--step--2);
+    font-family: 'Source Sans 3', sans-serif;
+    @include _4dp-penumbra;
+
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 0.4rem;
+      height: 0.4rem;
+      border-radius: 50%;
+      background-color: $success500;
+      margin-inline-end: 0.4rem;
+    }
+  }
+}

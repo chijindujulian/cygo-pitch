@@ -1,0 +1,12 @@
+{
+  "name": "omoo.studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./themes/omoov1/static/sass/main.scss ./themes/omoov1/static/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

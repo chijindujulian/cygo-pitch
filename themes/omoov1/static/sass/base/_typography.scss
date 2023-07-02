@@ -1,0 +1,52 @@
+h1 {
+    font-family: 'Alegreya', sans-serif;
+    font-weight: bold;
+    font-size: var(--step-5);
+}
+
+h2 {
+    font-family: 'Alegreya', sans-serif;
+    font-weight: bold;
+    font-size: var(--step-5);
+    text-transform: capitalize;
+}
+
+h3 {
+    font-family: 'Alegreya', sans-serif;
+    font-weight: bold;
+    font-size: var(--step-4);
+}
+
+h4 {
+    font-family: 'Alegreya', sans-serif;
+    font-weight: bold;
+    font-size: var(--step-3);
+    line-height: 1.4;
+    text-transform: capitalize;
+}
+
+h5 {
+    font-family: 'Alegreya', sans-serif;
+    font-weight: bold;
+    font-size: var(--step-2);
+    text-transform: capitalize;
+}
+
+h6 {
+    font-family: 'Alegreya', sans-serif;
+    font-weight: bold;
+    font-size: var(--step-1);
+}
+
+p {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 300;
+    font-size: var(--step-1);
+    line-height: 1.4;
+}
+
+a {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 300;
+    font-size: var(--step--1);
+}
