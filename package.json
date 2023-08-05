@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch ./themes/omoov1/static/sass/main.scss ./themes/omoov1/static/css/main.css"
+    "sass": "sass --watch ./themes/cygo/static/sass/main.scss ./themes/cygo/static/css/main.css"
   },
   "keywords": [],
   "author": "",

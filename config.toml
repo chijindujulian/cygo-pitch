@@ -6,4 +6,4 @@ relativeURLs = true
 canonifyURLs = true
 enableRobotsTXT = true
 enableGitInfo = true
-theme = "omoov1"
+theme = "cygo"
