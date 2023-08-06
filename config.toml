@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Omoo Studio - Web Design and Development services for growing startups'
+title = 'Cygo Entrepreneur'
 enableEmoji = true
 relativeURLs = true
 canonifyURLs = true
